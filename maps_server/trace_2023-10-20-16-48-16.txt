@@ -1,0 +1,30 @@
+10/20/2023 16:48:16	Démarrage de l'attente de 1 connexion(s).
+10/20/2023 16:48:23	Réception de NME en cours pour le joueur 0
+10/20/2023 16:48:23	Nom du joueur #0 est IANIS
+10/20/2023 16:48:23	Envoi de la description de la carte au joueur 0
+10/20/2023 16:48:23	Envoi de la description de la carte au joueur 0 terminé
+10/20/2023 16:48:23	Connexion(s) effectuée(s).
+10/20/2023 16:48:23	Arrêt de l'écoute.
+10/20/2023 16:48:28	Démarrage du tour à tour
+10/20/2023 16:48:28	Démarrage du chrono
+10/20/2023 16:48:28	Coup n°1
+			-> Tour du joueur #0
+10/20/2023 16:48:28	Envoi de UPD pour 0 mise(s) à jour
+		Trame de UPD: 55-50-44-00
+10/20/2023 16:48:28	Attente de la réponse du joueur
+			-> Attente des 4 premiers octets
+10/20/2023 16:48:33	Les Vampires ont fait un time out
+10/20/2023 16:48:33	Coup n°2
+			-> Tour du joueur #0
+10/20/2023 16:48:33	Envoi de UPD pour 0 mise(s) à jour
+		Trame de UPD: 55-50-44-00
+10/20/2023 16:48:33	Attente de la réponse du joueur
+			-> Attente des 4 premiers octets
+10/20/2023 16:48:38	Les Vampires ont fait un time out
+10/20/2023 16:48:38	Coup n°3
+			-> Tour du joueur #0
+10/20/2023 16:48:38	Envoi de UPD pour 0 mise(s) à jour
+10/20/2023 16:48:38	Fin de la partie car les Vampires ont triché.
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte: 			Message:{1}
+10/20/2023 16:48:42	Envoi de END et BYE et fermeture de la socket aux Vampires
+10/20/2023 16:48:42	Echec Envoi de END et BYE et fermeture de la socket aux Vampires

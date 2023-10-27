@@ -1,0 +1,134 @@
+10/27/2023 15:05:10	Démarrage de l'attente de 1 connexion(s).
+10/27/2023 15:05:12	Réception de NME en cours pour le joueur 0
+10/27/2023 15:05:12	Nom du joueur #0 est IANIS
+10/27/2023 15:05:12	Envoi de la description de la carte au joueur 0
+10/27/2023 15:05:12	Envoi de la description de la carte au joueur 0 terminé
+10/27/2023 15:05:12	Connexion(s) effectuée(s).
+10/27/2023 15:05:12	Arrêt de l'écoute.
+10/27/2023 15:05:17	Démarrage du tour à tour
+10/27/2023 15:05:17	Démarrage du chrono
+10/27/2023 15:05:17	Coup n°1
+			-> Tour du joueur #0
+10/27/2023 15:05:17	Envoi de UPD pour 0 mise(s) à jour
+		Trame de UPD: 55-50-44-00
+10/27/2023 15:05:17	Attente de la réponse du joueur
+			-> Attente des 4 premiers octets
+		-> Les 4 premiers octets ont bien été reçus
+			MOV: en attente de 5 octets
+10/27/2023 15:05:22	Les Vampires ont fait un time out
+10/27/2023 15:05:22	Coup n°2
+			-> Tour du joueur #0
+10/27/2023 15:05:22	Envoi de UPD pour 0 mise(s) à jour
+		Trame de UPD: 55-50-44-00
+10/27/2023 15:05:22	Attente de la réponse du joueur
+			-> Attente des 4 premiers octets
+		-> Les 4 premiers octets ont bien été reçus
+			MOV: en attente de 5 octets
+10/27/2023 15:05:27	Les Vampires ont fait un time out
+10/27/2023 15:05:27	Coup n°3
+			-> Tour du joueur #0
+10/27/2023 15:05:27	Envoi de UPD pour 0 mise(s) à jour
+		Trame de UPD: 55-50-44-00
+10/27/2023 15:05:27	Attente de la réponse du joueur
+			-> Attente des 4 premiers octets
+		-> Les 4 premiers octets ont bien été reçus
+			MOV: en attente de 5 octets
+10/27/2023 15:05:32	Les Vampires ont fait un time out
+10/27/2023 15:05:32	Coup n°4
+			-> Tour du joueur #0
+10/27/2023 15:05:32	Envoi de UPD pour 0 mise(s) à jour
+		Trame de UPD: 55-50-44-00
+10/27/2023 15:05:32	Attente de la réponse du joueur
+			-> Attente des 4 premiers octets
+		-> Les 4 premiers octets ont bien été reçus
+			MOV: en attente de 5 octets
+10/27/2023 15:05:37	Les Vampires ont fait un time out
+10/27/2023 15:05:37	Coup n°5
+			-> Tour du joueur #0
+10/27/2023 15:05:37	Envoi de UPD pour 0 mise(s) à jour
+		Trame de UPD: 55-50-44-00
+10/27/2023 15:05:37	Attente de la réponse du joueur
+			-> Attente des 4 premiers octets
+		-> Les 4 premiers octets ont bien été reçus
+			MOV: en attente de 5 octets
+10/27/2023 15:05:42	Les Vampires ont fait un time out
+10/27/2023 15:05:42	Coup n°6
+			-> Tour du joueur #0
+10/27/2023 15:05:42	Envoi de UPD pour 0 mise(s) à jour
+		Trame de UPD: 55-50-44-00
+10/27/2023 15:05:42	Attente de la réponse du joueur
+			-> Attente des 4 premiers octets
+		-> Les 4 premiers octets ont bien été reçus
+			MOV: en attente de 5 octets
+10/27/2023 15:05:47	Les Vampires ont fait un time out
+10/27/2023 15:05:47	Coup n°7
+			-> Tour du joueur #0
+10/27/2023 15:05:47	Envoi de UPD pour 0 mise(s) à jour
+		Trame de UPD: 55-50-44-00
+10/27/2023 15:05:47	Attente de la réponse du joueur
+			-> Attente des 4 premiers octets
+		-> Les 4 premiers octets ont bien été reçus
+			MOV: en attente de 5 octets
+10/27/2023 15:05:52	Les Vampires ont fait un time out
+10/27/2023 15:05:52	Coup n°8
+			-> Tour du joueur #0
+10/27/2023 15:05:52	Envoi de UPD pour 0 mise(s) à jour
+		Trame de UPD: 55-50-44-00
+10/27/2023 15:05:52	Attente de la réponse du joueur
+			-> Attente des 4 premiers octets
+		-> Les 4 premiers octets ont bien été reçus
+			MOV: en attente de 5 octets
+10/27/2023 15:05:57	Les Vampires ont fait un time out
+10/27/2023 15:05:57	Coup n°9
+			-> Tour du joueur #0
+10/27/2023 15:05:57	Envoi de UPD pour 0 mise(s) à jour
+		Trame de UPD: 55-50-44-00
+10/27/2023 15:05:57	Attente de la réponse du joueur
+			-> Attente des 4 premiers octets
+		-> Les 4 premiers octets ont bien été reçus
+			MOV: en attente de 5 octets
+10/27/2023 15:06:03	Les Vampires ont fait un time out
+10/27/2023 15:06:03	Coup n°10
+			-> Tour du joueur #0
+10/27/2023 15:06:03	Envoi de UPD pour 0 mise(s) à jour
+		Trame de UPD: 55-50-44-00
+10/27/2023 15:06:03	Attente de la réponse du joueur
+			-> Attente des 4 premiers octets
+		-> Les 4 premiers octets ont bien été reçus
+			MOV: en attente de 5 octets
+10/27/2023 15:06:08	Les Vampires ont fait un time out
+10/27/2023 15:06:08	Coup n°11
+			-> Tour du joueur #0
+10/27/2023 15:06:08	Envoi de UPD pour 0 mise(s) à jour
+		Trame de UPD: 55-50-44-00
+10/27/2023 15:06:08	Attente de la réponse du joueur
+			-> Attente des 4 premiers octets
+		-> Les 4 premiers octets ont bien été reçus
+			MOV: en attente de 5 octets
+10/27/2023 15:06:13	Les Vampires ont fait un time out
+10/27/2023 15:06:13	Coup n°12
+			-> Tour du joueur #0
+10/27/2023 15:06:13	Envoi de UPD pour 0 mise(s) à jour
+		Trame de UPD: 55-50-44-00
+10/27/2023 15:06:13	Attente de la réponse du joueur
+			-> Attente des 4 premiers octets
+		-> Les 4 premiers octets ont bien été reçus
+			MOV: en attente de 5 octets
+10/27/2023 15:06:18	Les Vampires ont fait un time out
+10/27/2023 15:06:18	Coup n°13
+			-> Tour du joueur #0
+10/27/2023 15:06:18	Envoi de UPD pour 0 mise(s) à jour
+		Trame de UPD: 55-50-44-00
+10/27/2023 15:06:18	Attente de la réponse du joueur
+			-> Attente des 4 premiers octets
+		-> Les 4 premiers octets ont bien été reçus
+			MOV: en attente de 5 octets
+10/27/2023 15:06:23	Les Vampires ont fait un time out
+10/27/2023 15:06:23	Coup n°14
+			-> Tour du joueur #0
+10/27/2023 15:06:23	Envoi de UPD pour 0 mise(s) à jour
+		Trame de UPD: 55-50-44-00
+10/27/2023 15:06:23	Attente de la réponse du joueur
+			-> Attente des 4 premiers octets
+		-> Les 4 premiers octets ont bien été reçus
+			MOV: en attente de 5 octets

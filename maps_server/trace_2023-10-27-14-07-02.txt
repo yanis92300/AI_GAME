@@ -1,0 +1,7 @@
+10/27/2023 14:07:02	Démarrage de l'attente de 1 connexion(s).
+10/27/2023 14:07:04	Réception de NME en cours pour le joueur 0
+10/27/2023 14:07:04	Nom du joueur #0 est IANIS
+10/27/2023 14:07:04	Envoi de la description de la carte au joueur 0
+10/27/2023 14:07:04	Envoi de la description de la carte au joueur 0 terminé
+10/27/2023 14:07:04	Connexion(s) effectuée(s).
+10/27/2023 14:07:04	Arrêt de l'écoute.
